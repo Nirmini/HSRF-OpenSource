@@ -6,3 +6,5 @@
 ### - [HSRF](https://www.roblox.com/games/126199673452085)
 ### - [West7014 - HSRF Lead](https://github.com/thatWest7014)
 ### - [Erin - Internal Review](https://github.com/Aaron-NERF)
+
+Generated with Rojo.
