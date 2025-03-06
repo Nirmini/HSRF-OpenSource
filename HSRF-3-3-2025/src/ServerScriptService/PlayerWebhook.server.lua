@@ -21,8 +21,8 @@ end
 Players.PlayerAdded:Connect(function(player)
 	if RunService:IsRunning() then
 		if SERVER_ID == "" then
-			SERVER_ID = "STUDIO RUNTIME"
+		SERVER_ID = "STUDIO RUNTIME"
 		end
-		sendWebhookMessage("`" .. player.Name .. "` joined `" .. GAME_NAME .. "`  ServerID: `" .. SERVER_ID .. "`")
+	sendWebhookMessage("`" .. player.Name .. "` joined `" .. GAME_NAME .. "`  ServerID: `" .. SERVER_ID .. "`")
 	end
 end)
